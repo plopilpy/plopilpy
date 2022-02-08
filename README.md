@@ -1,4 +1,7 @@
-### Hi there 👋
+### hi
+### I'm plop and I make code projects (very poorly coded ones)
+### I'm a male
+### my discord is [Plopilpy#4747]
 
 <!--
 **plopilpy/plopilpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
