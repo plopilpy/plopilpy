@@ -1,8 +1,5 @@
 ### hi
 ### I'm plop and I make code projects (very poorly coded ones)
-### go check out [windows 96, it's cool as hell](https://windows96.net)
-### I'm a male
-### my discord is [Plopilpy#4747](https://discordapp.com)
 
 <!--
 **plopilpy/plopilpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
